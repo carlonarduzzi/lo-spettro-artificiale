@@ -1,0 +1,2 @@
+# lo-spettro-artificiale
+nanobook
